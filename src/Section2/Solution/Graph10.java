@@ -1,4 +1,4 @@
-package Section2;
+package Section2.Solution;
 
 public class Graph10 {
     public int[][] createMatrix(int[][] edges) {

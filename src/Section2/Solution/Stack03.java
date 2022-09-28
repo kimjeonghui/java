@@ -1,4 +1,4 @@
-package Section2;
+package Section2.Solution;
 
 import java.util.ArrayList;
 import java.util.Stack;
