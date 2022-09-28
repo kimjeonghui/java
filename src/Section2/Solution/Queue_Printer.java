@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Queue05 {
+public class Queue_Printer {
     public int queuePrinter(int bufferSize, int capacities, int[] documents) {
         //인쇄대기열
         Queue<Integer> list = new LinkedList<>();

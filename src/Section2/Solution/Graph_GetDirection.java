@@ -5,7 +5,7 @@ package Section2.Solution;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Graph11 {
+public class Graph_GetDirection {
     public boolean getDirections(int[][] matrix, int from, int to) {
 
         //그래프 재귀함수로 길찾기

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.stream.Collectors;
 
-public class LoadStuff {
+public class Greedy_LoadStuff {
     public int movingStuff(int[] stuff, int limit) {
         //정렬
         //배열에서 없애기  -> arrayList
