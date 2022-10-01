@@ -1,5 +1,9 @@
 package Section2.Solution;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Queue_PaveBox {
     public int paveBox(Integer[] boxes) {
         ArrayList<Integer> answer = new ArrayList<>();
