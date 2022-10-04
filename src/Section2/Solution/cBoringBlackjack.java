@@ -2,7 +2,7 @@ package Section2.Solution;
 
 import java.util.ArrayList;
 
-public class C_boringBlackjack {
+public class cBoringBlackjack {
     ArrayList<Integer> combi=  new ArrayList<>();
     int cnt =0;
     int sum=0;

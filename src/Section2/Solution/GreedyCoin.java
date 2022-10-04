@@ -1,6 +1,6 @@
 package Section2.Solution;
 
-public class Greedy_coin {
+public class GreedyCoin {
     public int partTimeJob(int k) {
         // 오름차순이니까 거꾸로 인덱싱
         int coin = 0;

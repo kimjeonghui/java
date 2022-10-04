@@ -2,7 +2,7 @@ package Section2.Solution;
 
 import java.util.ArrayList;
 
-public class Pi_rockPaperScissors {
+public class PermutationRockPaperScissors {
 
     String[] list = new String[]{"rock","paper","scissors"};
 

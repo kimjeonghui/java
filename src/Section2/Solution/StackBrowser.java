@@ -3,7 +3,7 @@ package Section2.Solution;
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class Stack_Browser {
+public class StackBrowser {
 
     public ArrayList<Stack> browserStack(String[] actions, String start) {
             Stack<String> prevStack = new Stack<>();

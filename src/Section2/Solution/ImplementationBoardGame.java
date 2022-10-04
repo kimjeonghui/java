@@ -1,6 +1,6 @@
 package Section2.Solution;
 
-public class Implementation_BoardGame {
+public class ImplementationBoardGame {
     public Integer boardGame(int[][] board, String operation) {
         // current[]
         //상하좌우 (-1,0) (1,0), (0,-1), (0,1) 이차원배열

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Queue_PaveBox {
+public class QueuePaveBox {
     public int paveBox(Integer[] boxes) {
         ArrayList<Integer> answer = new ArrayList<>();
         List<Integer> arrayList = new ArrayList<Integer>(Arrays.asList(boxes));

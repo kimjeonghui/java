@@ -1,6 +1,6 @@
 package Section2.Solution;
 
-public class Graph_CreateMatrix {
+public class GraphCreateMatrix {
     public int[][] createMatrix(int[][] edges) {
         //int row=0;
         int col =0;//최대 열

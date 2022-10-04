@@ -2,7 +2,7 @@ package Section2.Solution;
 
 import java.util.ArrayList;
 
-public class GCD_divideChocolateStick {
+public class GcdDivideChocolateStick {
     public ArrayList<Integer[]> divideChocolateStick(int M, int N) {
         //공약수
         //최대 M까지만 확인하면 됨

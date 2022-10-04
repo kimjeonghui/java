@@ -3,7 +3,7 @@ package Section2.Solution;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class DFS_BFS_connectedVertices {
+public class DfsBfsConnectedVertices {
     public int connectedVertices(int[][] edges) {
         int cnt =0;//카운트 하는 변수
 
