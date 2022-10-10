@@ -41,7 +41,7 @@ public class DfsBfsConnectedVertices {
             visited[i] = false;
         }
 
-        //edges로 연결된 곳만 체크하면 왜 안돼지???
+        //edges로 연결된 곳만 체크하면 왜 안되지???
 
 
         for(int i =0; i<matrix.length; i++){ //matrix의 모든 행 검사
