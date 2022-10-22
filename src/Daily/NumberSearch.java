@@ -24,5 +24,32 @@ public class NumberSearch {
         }
         double output = answer/pure.length(); // 형변환 https://fors.tistory.com/m/105
         return (int) Math.round((output * 10) / 10); //반올림
+        
+        
+        
+        /*
+        
+        
+        ublic class Solution { 
+  public int numberSearch(String str) {
+    // 빈 문자열인 경우 0을 리턴한다.
+    if (str.length() == 0) return 0;
+        
+    // 문자열에서 숫자만 걸러낸다.
+    String regexNum = str.replaceAll("[^0-9]", "");
+    String regexStr = str.replaceAll("[0-9]", "").replace(" ", "");
+
+    // 전부 더한다. (소수점 나타내기 위해 double형으로 선언)
+    double num = 0;
+
+    for(int i = 0; i < regexNum.length(); i++) {
+    num += regexNum.charAt(i) - '0';
+    }
+
+    // 문자열의 길이로 나눈 값을 반올림하여 리턴한다.
+    return (int) Math.round(num / regexStr.length());
+  } 
+}
+        */
     }
 }
